@@ -11,7 +11,7 @@ This Python script generates Bitcoin addresses and corresponding private keys us
 
 ## Prerequisites
 Before running the script, ensure you have the `hdwallet` package installed:
-    pip install hdwallet
+    - 'pip install hdwallet'
 
 
 ## Usage
