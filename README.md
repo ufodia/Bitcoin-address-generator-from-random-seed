@@ -12,7 +12,7 @@ This Python script generates Bitcoin addresses and corresponding private keys us
 ## Prerequisites
 Before running the script, ensure you have the `hdwallet` package installed:
 
-     `pip install hdwallet`
+     pip install hdwallet
      
 
 
@@ -37,4 +37,4 @@ This script is for educational purposes only. Do not use the generated addresses
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
-**Donate BTC: `1DDus3a5DnugwXkWdVMSYcH1tZ2jMYXfi1`
+Donate BTC: `1DDus3a5DnugwXkWdVMSYcH1tZ2jMYXfi1`
