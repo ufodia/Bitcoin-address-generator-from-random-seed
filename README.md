@@ -20,13 +20,13 @@ Run the script in a Python environment. The user will be prompted to:
 2. Enter the number of iterations for generating sets of addresses and keys.
 
 The results will be saved to a file named `seeds.txt` in the following format:
-    Seed Phrase : <mnemonic>
-    P2PKH Address : <address>
-    P2SH Address : <address>
-    P2WPKH Address : <address>
-    P2WPKH in P2SH Address : <address>
-    Private Key (Hex) : <key>
-    Private Key (WIF) : <key>
+   - Seed Phrase : <mnemonic>
+   - P2PKH Address : <address>
+   - P2SH Address : <address>
+   - P2WPKH Address : <address>
+   - P2WPKH in P2SH Address : <address>
+   - Private Key (Hex) : <key>
+   - Private Key (WIF) : <key>
 
 
 ## Disclaimer
