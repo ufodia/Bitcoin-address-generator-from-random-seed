@@ -37,4 +37,5 @@ This script is for educational purposes only. Do not use the generated addresses
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
-Donate BTC: `1DDus3a5DnugwXkWdVMSYcH1tZ2jMYXfi1`
+## Donate: 
+**BTC**: `1GZdNtQYa2DN4b3hLekrYErv9c8WLqbBTm`
